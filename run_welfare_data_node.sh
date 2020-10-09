@@ -1,0 +1,1 @@
+python start_welfare_data_node.py --host 10.7.3.34 --port 8777 --id welfare_data_node -v
